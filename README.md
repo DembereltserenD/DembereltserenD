@@ -6,7 +6,7 @@ I'm a 22-year-old **Software Engineering graduate** from the University of Human
 
 - 🎓 **Fresh Graduate** in Software Engineering (June 2025)
 - 💻 **Full-Stack Developer** specializing in web and mobile applications
-- 🌱 Currently exploring **AI and Creative Automation**
+- 🌱 Currently exploring **AI and Creative Automation** Context engineering
 - 🎯 Goal: Transform knowledge into impactful solutions that add organizational value
 
 ## 🛠️ Tech Stack
