@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a 22-year-old **Software Engineering graduate** from the University of Humanities, Mongolia. Recently graduated in June 2025 with a Bachelor's degree, I'm ready to apply my knowledge in real-world projects and contribute value to organizations.
+I'm a 23-year-old **Software Engineering graduate** from the University of Humanities, Mongolia. Recently graduated in June 2025 with a Bachelor's degree, I'm ready to apply my knowledge in real-world projects and contribute value to organizations.
 
 - 🎓 **Fresh Graduate** in Software Engineering (June 2025)
 - 💻 **Full-Stack Developer** specializing in web and mobile applications
