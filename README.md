@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-I'm a 23-year-old **Software Engineering graduate** from the University of Humanities, Mongolia. Recently graduated in June 2025 with a Bachelor's degree, I'm ready to apply my knowledge in real-world projects and contribute value to organizations.
+I'm a **Software Engineering graduate** from the University of Humanities, Mongolia. Graduated in June 2025 with a Bachelor's degree, I'm currently working in Digital Power LLC Service's website projects and contributed value to organizations.
 
-- 🎓 **Fresh Graduate** in Software Engineering (June 2025)
+- 🎓 **Graduate** in Software Engineering (June 2025)
 - 💻 **Full-Stack Developer** specializing in web and mobile applications
 - 🌱 Currently exploring **AI and Creative Automation** Intent engineering
 - 🎯 Goal: Transform knowledge into impactful solutions that add organizational value
