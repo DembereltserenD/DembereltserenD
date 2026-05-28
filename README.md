@@ -6,7 +6,7 @@ I'm a **Software Engineering graduate** from the University of Humanities, Mongo
 
 - 🎓 **Graduate** in Software Engineering (June 2025)
 - 💻 **Full-Stack Developer** specializing in web and mobile applications
-- 🌱 Currently exploring **AI and Creative Automation** Intent engineering
+- 🌱 Currently exploring **AI and Creative Automation** Harness engineering
 - 🎯 Goal: Transform knowledge into impactful solutions that add organizational value
 
 ## 🛠️ Tech Stack
@@ -41,7 +41,6 @@ I'm a **Software Engineering graduate** from the University of Humanities, Mongo
 When I'm not coding, you'll find me:
 
 - 🎯 **Strategic Gaming**: Playing League of Legends: Wild Rift as one of Mongolia's top Junglers - this has sharpened my quick decision-making and teamwork skills
-- 🚴 **Cycling**: Regular cycling keeps my body and mind balanced and healthy
 - 📚 **Continuous Learning**: Always exploring new technologies and creative automation techniques
 
 ## 🤝 Let's Connect!
